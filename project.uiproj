@@ -1,0 +1,6 @@
+{
+  "Name": "rpachallenge",
+  "ProjectType": "Process",
+  "Description": "challentge escribir en input en web application, estos inputs cambian de lugar\r\n",
+  "MainFile": "Main.xaml"
+}

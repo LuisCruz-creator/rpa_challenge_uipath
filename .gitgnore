@@ -1,0 +1,23 @@
+# --- Archivos temporales y de ejecución de UiPath ---
+.local/
+.objects/
+.tmh/
+.screenshots/
+
+# --- Configuraciones de usuario de Studio ---
+*.user.settings
+*.user
+
+# --- Archivos de respaldo y autosave ---
+*.backup
+*~
+
+# --- Paquetes descargados localmente (si los hay) ---
+.nuget/
+packages/
+
+# --- Sistema operativo y editores ---
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

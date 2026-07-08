@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Role in Company",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "X95IGKHzjkuQ9N_Iq6UhFg",
+  "Reference": "KTgLcV_XCkeMT36oyGZOBg/X95IGKHzjkuQ9N_Iq6UhFg",
+  "ParentRef": "KTgLcV_XCkeMT36oyGZOBg/CpOK42cNu0uCvKU7FiP2GA",
+  "Created": "2026-07-08T21:14:40.7710838Z",
+  "Updated": "2026-07-08T21:14:40.7710838Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.33.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
